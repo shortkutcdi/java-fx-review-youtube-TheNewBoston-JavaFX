@@ -1,0 +1,7 @@
+/*  pas supporté : @charset "UTF-8"; */
+
+.root {
+/*	-fx-background-color: red;*/
+ 	-fx-background-color: #383838; 
+	-fx-font-size: 11pt;
+}

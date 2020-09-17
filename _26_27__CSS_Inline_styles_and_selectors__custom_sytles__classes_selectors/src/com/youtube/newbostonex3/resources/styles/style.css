@@ -1,0 +1,29 @@
+/*  pas supporté : @charset "UTF-8"; */
+
+.root {
+/*	-fx-background-color: red;*/
+ 	-fx-background-color: #383838; 
+	-fx-font-size: 11pt;
+	/* -fx-text-fill:  et pas -fx-color:*/
+}
+
+.label {
+	-fx-text-fill: #fff; 
+}
+
+.button {
+	-fx-background-color: #ab4642;
+	-fx-text-fill: #fff; 
+	-fx-background-radius: 3;
+}
+
+.button-blue {
+	-fx-background-color: #7cafc2;
+	-fx-text-fill: #fff; 
+	-fx-background-radius: 3;
+}
+
+#bold-label {
+	-fx-font-wieght: bold;
+	-fx-text-fill: red; 
+}
